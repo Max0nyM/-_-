@@ -1,0 +1,6 @@
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\bin\Debug\Змейка_ООП.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\bin\Debug\Змейка_ООП.exe
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\bin\Debug\Змейка_ООП.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\obj\Debug\Змейка_ООП.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\obj\Debug\Змейка_ООП.exe
+c:\users\maxim\documents\visual studio 2015\Projects\Змейка_ООП\Змейка_ООП\obj\Debug\Змейка_ООП.pdb
